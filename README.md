@@ -67,12 +67,10 @@ Install the following libraries to run the notebook:
 - `xgboost`  
 - `imbalanced-learn`  
 
-
 ## 📈 Next Steps
-Extend feature engineering to include additional financial ratios or external datasets.
-Test alternative balancing techniques, such as SMOTE.
-Experiment with deep learning models for improved performance.
-
+Extend feature engineering to include additional financial ratios or external datasets.  
+Test alternative balancing techniques.
+Experiment with deep learning models for improved performance.  
 
 ## 📬 Contact
 For any inquiries, feel free to reach out at:  
