@@ -67,14 +67,14 @@ Install the following libraries to run the notebook:
 - `xgboost`  
 - `imbalanced-learn`  
 
-Use the following command to install any missing dependencies:  
-```bash
-pip install pandas numpy seaborn matplotlib tableone scikit-learn scipy xgboost imbalanced-learn
-📈 Next Steps
+
+## 📈 Next Steps
 Extend feature engineering to include additional financial ratios or external datasets.
 Test alternative balancing techniques, such as SMOTE.
 Experiment with deep learning models for improved performance.
-📬 Contact
-For any inquiries, feel free to reach out at:
-Email: your_email@example.com
-LinkedIn: linkedin.com/in/yourprofile
+
+
+## 📬 Contact
+For any inquiries, feel free to reach out at:  
+Email: nathan.harroch06@gmail.com
+LinkedIn: https://www.linkedin.com/in/nathan-harroch-b11590196/
